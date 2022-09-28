@@ -1,0 +1,5 @@
+io\quarkus\workshop\superheroes\fight\client\MockVillainProxy.class
+io\quarkus\workshop\superheroes\fight\client\MockHeroProxy.class
+io\quarkus\workshop\superheroes\fight\FightResourceTest.class
+io\quarkus\workshop\superheroes\fight\FightResourceTest$1.class
+META-INF\panache-archive.marker

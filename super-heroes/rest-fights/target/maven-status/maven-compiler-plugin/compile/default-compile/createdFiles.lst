@@ -1,0 +1,10 @@
+io\quarkus\workshop\superheroes\fight\Fight.class
+io\quarkus\workshop\superheroes\fight\health\PingFightResourceHealthCheck.class
+io\quarkus\workshop\superheroes\fight\client\VillainProxy.class
+io\quarkus\workshop\superheroes\fight\client\Hero.class
+io\quarkus\workshop\superheroes\fight\Fighters.class
+io\quarkus\workshop\superheroes\fight\client\Villain.class
+io\quarkus\workshop\superheroes\fight\FightResource.class
+META-INF\panache-archive.marker
+io\quarkus\workshop\superheroes\fight\client\HeroProxy.class
+io\quarkus\workshop\superheroes\fight\FightService.class
